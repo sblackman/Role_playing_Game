@@ -1,6 +1,6 @@
 class Item:
-    def __init__(self,name,type,description,prop):
-        self.name=name
-        self.type=type
-        self.description=description
-        self.prop=prop
+    def __init__(self, name, i_type, description, prop):
+        self.name = name
+        self.i_type = i_type
+        self.description = description
+        self.prop = prop
